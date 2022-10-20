@@ -33,7 +33,7 @@ A serverless, progressive web application (PWA) with React using a test-driven d
   - **Then** the event details of said event should be shown
 - **Scenario 3**: User can collapse an event to hide its details.
   - **Given** the user has previously expanded an event to see its details
-  - **When** the user clicks on the event header
+  - **When** the user clicks on the hide button
   - **Then** the event details of said event should be hidden
 
 ### 3. Specify number of events.
