@@ -75,4 +75,6 @@ A serverless, progressive web application (PWA) with React using a test-driven d
 
 Technologies used: JavaScript, React, Google Calendar API, AWS lambda, Jest / Enzyme, Jest-Cucumber, Puppeteer, Recharts
 
-Deployed app link: tbu
+Deployed app link: https://mats-js.github.io/meet/
+
+![Screenshot](/img/screenshot_meet_app.png?raw=true)
