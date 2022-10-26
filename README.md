@@ -73,6 +73,6 @@ A serverless, progressive web application (PWA) with React using a test-driven d
   - **When** the user opens the app
   - **Then** a chart with upcoming events by city should by shown
 
-Technologies used: JavaScript, React, OAuth2, Google Calendar API, AWS lambda
+Technologies used: JavaScript, React, Google Calendar API, AWS lambda, Jest / Enzyme, Jest-Cucumber, Puppeteer, Recharts
 
 Deployed app link: tbu
